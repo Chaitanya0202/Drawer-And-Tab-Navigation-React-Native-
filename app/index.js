@@ -82,16 +82,16 @@ const styles = StyleSheet.create({
   },
   textConnect: {
     margin: 16,
-    fontSize: hp(3), // 3% of screen height
+    fontSize: hp(3),
     color: 'white',
     fontWeight: 'bold',
-    backgroundColor: '#b91c1c', // rose-900
-    paddingVertical: 20, // 5 * 4
-    paddingHorizontal: 40, // 10 * 4
-    borderRadius: 9999, // rounded-full
+    backgroundColor: '#b91c1c', 
+    paddingVertical: 20, 
+    paddingHorizontal: 40, 
+    borderRadius: 9999, 
     textAlign: 'center',
     borderWidth: 2,
     borderColor: 'white',
-    letterSpacing: 1.25, // tracking-wider
+    letterSpacing: 1.25, 
   },
 });
